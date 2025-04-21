@@ -14,10 +14,11 @@ SQL (Structured Query Language) es un lenguaje utilizado para gestionar y manipu
 - Hacer resúmenes y estadísticas
 - Conectarlo con herramientas de análisis como Power BI o Python
 
-
+---
 
 ## Comandos básicos
 
+```sql
 SELECT nombre, edad
 FROM usuarios
 WHERE edad > 18;
