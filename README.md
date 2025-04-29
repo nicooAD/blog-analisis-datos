@@ -20,7 +20,7 @@ Este es mi espacio para aprender y compartir conocimientos sobre **análisis de 
 1. [Introducción a SQL](posts/introduccion-a-sql.md)
 2. [SELECT, FROM y WHERE](posts/select-from-where.md)
 3. [JOINS en SQL](posts/joins-en-sql.md)
-4. [GROUP BY y funciones agregadas](posts/group-by-funciones-agregadas)
+4. [GROUP BY y funciones agregadas](posts/group-by-funciones-agregadas.md)
 5. [Reto SQL: ¿Cuál es el producto más vendido?](posts/reto-producto-mas-vendido.md)
 
 ---
